@@ -1,0 +1,126 @@
+<mjml>
+  <mj-head>
+    <mj-title>Braintrade</mj-title>
+    <mj-preview>&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;&nbsp;&zwnj;&zwj;</mj-preview>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" />
+    <mj-attributes>
+      <mj-all font-family="Poppins, sans-serif" />
+
+      <mj-text font-weight="400" font-size="16px" line-height="1.5" color="#002D47" />
+
+      <mj-button align="center" background-color="#ff8f28" color="#ffffff" border-radius="500px" height="55px" font-size="16px" font-weight="bold" width="300px" />
+    </mj-attributes>
+    <mj-style>
+     p {
+      
+direction: rtl !important;
+  text-align: right !important;
+
+      }
+      
+      .footer p, .footer a { color: #5A7181 !important; }
+    h1 {  color: #002D47 !important;
+    font-size: 28px;
+    font-weight: 700 !important;
+    line-height: 45px !important;
+direction: rtl !important;
+  text-align: right !important;
+      }
+       h2 {  color: #002D47 !important;
+    font-size: 25px;
+    font-weight: 700 !important;
+      direction: rtl !important;
+  text-align: right !important;
+      }
+
+
+      @media only screen and (max-width:480px) {
+      .align-text {
+      padding: 0 !important;
+      }
+      h1 {
+      padding: 0 0 0 0 !important;
+      }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#ffffff">
+    <mj-wrapper padding="25px 25px 10px 25px" background-color="#F5F9FF">
+      <mj-section background-color="#F5F9FF" padding="5px 0 0 0">
+        <mj-column>
+
+          <mj-image width="140px" src="https://assets.userex.com/images/4/1d575f9541fcad0fd1a60d3f14e86869/braintrade_logo.png" alt="Braintrade Logo" href="https://login.thebraintrade.com/login" />
+
+          <mj-spacer height="10px" />
+
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" border-radius="18px 18px 0px 0px">
+        <mj-column>
+
+          <mj-text align="left" font-style="italic" padding="10px 20px 0px 30px">
+            <p>مرحبًا،</p>
+          </mj-text>
+
+          <mj-text align="left" font-style="italic" padding="10px 20px 0 30px">
+            <p>
+         يسرنا أن نشارككم أخبارًا رائعة حول تجربتكم التعليمية مع Braintrade.
+          خلال الأشهر الماضية، عمل فريقنا بجد لتطوير حزمة التعليم بالكامل. نحن نقدم دورات جديدة عالية الجودة، ونوسع المحتوى التعليمي، ونضيف كتبًا إلكترونية مميزة تهدف إلى تعزيز مهاراتكم ومنحكم قيمة أكبر من التدريب الخاص بكم.
+            </p>
+          </mj-text>
+
+          <mj-text font-style="italic" align="left" padding="10px 20px 10px 30px">
+            <p>
+           بسبب هذه التحسينات، لن تكون الدورات الحالية على المنصة متاحة خلال الأيام القادمة من شهر ديسمبر. سيتم استبدالها بالهيكل التعليمي الجديد والمحسن. وعلى الرغم من تغيير الاسم، ستستمر حزمة التعليم الخاصة بكم في توفير الوصول إلى جميع الموارد التي لديكم حاليًا. هذه خطوة بسيطة لتحسين الخدمات التي نقدمها لكم.
+            </p>
+          </mj-text>
+          
+          
+
+          <mj-text font-style="italic" align="left" padding="10px 20px 10px 30px">
+            <p>
+           هذا التغيير يركز بالكامل على نموكم. هدفنا دائمًا كان تقديم تدريب واضح وعملي ومتوافق مع متطلبات السوق الحقيقية — وتعكس هذه التحديثات التزامنا بتقديم أعلى جودة ممكنة.
+            </p>
+          </mj-text>
+          
+          
+          
+
+          <mj-text font-style="italic" align="left" padding="10px 20px 10px 30px">
+            <p>
+         شكرًا لانضمامكم إلى Braintrade. نحن واثقون أن هذه التحسينات ستثري تجربة تعلمكم بشكل كبير.
+            </p>
+          </mj-text>
+          
+          <mj-text font-style="italic" align="left" padding="10px 20px 10px 30px">
+            <p>
+     			إذا كانت لديكم أي أسئلة، لا تترددوا في التواصل معنا — نحن هنا للمساعدة.
+            </p>
+          </mj-text>
+          
+          
+
+          <mj-text font-style="italic" align="left" padding="10px 20px 10px 30px">
+						<p>
+           مع أطيب التحيات،<br />
+          فريق Braintrade
+					</p>
+          </mj-text>
+
+        </mj-column>
+      </mj-section>
+
+    </mj-wrapper>
+    <mj-section background-color="#F5F9FF" css-class="footer" padding="0px">
+      <mj-column>
+
+        <mj-text align="center" font-size="14px">
+          {{ld_Disclaimer_system_CES}}
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
